@@ -1,0 +1,14 @@
+Flask==2.2.3
+Flask_Login==0.6.2
+flask_sqlalchemy==3.0.3
+keras
+numpy
+opencv_python==4.6.0.66
+Pillow==9.4.0
+PyJWT==2.6.0
+SQLAlchemy==2.0.5.post1
+tensorflow==2.12.0rc0
+tensorflow-lite
+Werkzeug==2.2.3
+gunicorn==20.1.0
+
